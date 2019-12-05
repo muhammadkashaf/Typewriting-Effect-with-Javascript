@@ -1,1 +1,2 @@
-# Typewriting-Effect-with-Javascript
+      Typewriting-Effect-with-Javascript
+      Demo: 
